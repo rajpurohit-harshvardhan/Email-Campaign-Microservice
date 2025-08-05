@@ -1,0 +1,11 @@
+{
+  "name": "email-campaign-microservice",
+  "version": "1.0.0",
+  "description": "A backend-only email campaign service — build, schedule, and deliver email campaigns in batches.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Harshvardhan Rajpurohit",
+  "license": "ISC"
+}
